@@ -1,0 +1,11 @@
+{
+  "name": "twilio-openai-realtime",
+  "type": "module",
+  "dependencies": {
+    "ws": "^8.16.0",
+    "node-fetch": "^3.3.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
